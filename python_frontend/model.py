@@ -6,7 +6,7 @@ import numpy as np
 
 class ModelTrain:
 
-	NUM_SAMPLES = 200
+	NUM_SAMPLES = 500
 	CONFIDENCE = 90
 	SAVE_FORMAT = "jpg"
 
